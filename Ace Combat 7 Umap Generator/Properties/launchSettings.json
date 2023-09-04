@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ace Combat 7 Umap Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"AIGameObject\"\r\n\"E:\\MODDING\\_Ace Combat 7\\UmodelAC7\\UmodelSaved\\Game\\Maps\\Mission\\ms01\\ms01_Phase_02.umap\"\r\n\"E:\\MODDING\\_Ace Combat 7\\CSV\"\r\n"
+    }
+  }
+}
